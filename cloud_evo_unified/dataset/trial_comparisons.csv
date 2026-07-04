@@ -1,0 +1,4 @@
+timestamp,trial_label,n_samples,mutation_rate,alpha,beta,rho,n_ants,n_iterations,accuracy,avg_mutation_count
+2026-06-29T19:03:55,Trial 1 — Low mutation,20,0.0,1.0,1.2,0.3,16,30,0.15,0.0
+2026-06-29T19:03:56,Trial 2 — Default,20,0.05,0.6,0.9,0.4,39,50,0.0,45.45
+2026-06-29T19:03:58,Trial 3 — High mutation,20,0.44,1.5,1.7,0.3,48,70,0.0,686.55
