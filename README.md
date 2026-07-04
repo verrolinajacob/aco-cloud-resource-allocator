@@ -4,8 +4,7 @@
 infrastructure simulator combining Ant Colony Optimization (ACO) with Genetic
 Algorithm (GA) mutation, backed by a 7-table SQLite schema.
 
-Built as a final-year internship capstone project (B.Tech CSE, Cloud
-Computing specialization).
+
 
 ---
 
